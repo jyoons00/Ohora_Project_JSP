@@ -79,7 +79,7 @@
           회원
           <div class="sub" id="bb">
             <a href="#empty">신규 혜택</a><br /><br />
-            <a href="/projectOhora/ohora/login.jsp">멤버십 혜택</a><br /><br />
+            <a href="/projectOhora/ohora/membership.jsp">멤버십 혜택</a><br /><br />
             <a href="/projectOhora/ohora/oho_mypage.jsp">마이페이지</a><br /><br />
             <a href="/projectOhora/ohora/coupon.jsp">적립금·쿠폰내역</a><br /><br />
             <a href="/projectOhora/ohora/oho_memInfo.jsp">회원정보변경</a>
