@@ -303,7 +303,7 @@
                                     </a>
                                 </li>
                                 <li class="point-history">
-                                    <a href="">적립금 내역
+                                    <a href="/projectOhora/ohora/point.jsp">적립금 내역
                                         <span class="count">0원</span>
                                     </a>
                                 </li>
